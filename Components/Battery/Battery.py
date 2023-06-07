@@ -4,4 +4,4 @@ class Battery:
         self.current_date = current_date
 
     def needs_service(self):
-        raise NotImplementedError("Subclass must implement the needs_service method.")
+        raise NotImplementedError("Subclass must implement the needs_service method.
